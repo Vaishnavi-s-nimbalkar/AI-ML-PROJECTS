@@ -1,11 +1,4 @@
-Perfect ✅ — I’ll create **4 README files** for you:
 
-* One **common README.md** (root level) that explains all projects.
-* Three **separate README.md files** (inside each project folder).
-
-These are **ATS-friendly** (good keywords, concise but descriptive), yet also useful if you upload them on GitHub.
-
----
 
 # 📌 Common `README.md` (root)
 
